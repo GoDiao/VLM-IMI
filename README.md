@@ -4,5 +4,6 @@
 * will generate `/data/lowlight_train.txt` that links all the high-low pairs & texts
 ### 4 Then you can run the `train.py`
 ### useful dataset
-`https://figshare.com/articles/dataset/_Information_zip/27192921`
-`https://www.kaggle.com/datasets/tanhyml/lol-v2-dataset`
+
+* https://www.kaggle.com/datasets/tanhyml/lol-v2-dataset
+* https://opendatalab.com/OpenDataLab/LSRW/tree/main/raw
