@@ -5,3 +5,4 @@
 ### 4 Then you can run the `train.py`
 ### useful dataset
 `https://figshare.com/articles/dataset/_Information_zip/27192921`
+`https://www.kaggle.com/datasets/tanhyml/lol-v2-dataset`
